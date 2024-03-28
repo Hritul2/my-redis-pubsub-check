@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "redis": "^4.6.13"
+  },
+  "name": "redis-check",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",   
+    "dev": "nodemon index.js"   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

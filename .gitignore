@@ -1,0 +1,62 @@
+# Node modules
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Others
+*.zip
+*.tgz
+*.tar.gz
+*.rar
+*.gz
+*.log*
+*.bak
+*.backup
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.xlsx
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.ico
+*.webp
+*.mp3
+*.mp4
+*.avi
+*.mkv
+*.flv
+*.mov
+*.wmv
+*.m4a
+*.ogg
+*.oga
+*.wav
+*.flac
+*.aac
+*.psd
+*.ai
+*.eps
+*.svg
